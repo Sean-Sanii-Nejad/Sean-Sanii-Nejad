@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Sean-Sanii-Nejad
-- 👀 I’m interested in Java, mySQL & game development in general.
+- 👀 I’m interested in Java, mySQL & game development in general. I started programming in 2019 at University of Kent
 - 🌱 I’m currently learning Java, mySQL & Erlang
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
