@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Sean-Sanii-Nejad
-- 👀 I’m interested in Java, C++ & game development. I started programming in 2019 at University of Kent
+
   
 
 <!---
