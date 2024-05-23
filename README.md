@@ -1,5 +1,5 @@
 # Introduction
--  Hello👋, I'm Sean, Programmer based in the UK, passionate about game development and seeking my first role in the gaming industry. :)
+-  Hello👋, I'm Sean, Programmer based in the UK.
 ### Link to Website Portfolio:
 https://sean-sanii-nejad.github.io/Portfolio/
 
