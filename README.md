@@ -1,6 +1,6 @@
 # 👋 Introduction
 
-Hi, I'm **Sean**, a passionate **programmer based in the UK**.
+Hi, I'm **Sean**, a **programmer based in the UK**.
 
 ---
 
